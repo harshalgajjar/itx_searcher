@@ -1,0 +1,10 @@
+http://sanskritdocuments.org/veda
+https://sanskritdocuments.org
+http://sanskritdocuments.org/sanskrit/veda
+http://sanskritdocuments.org/itrans/veda
+http://sanskritdocuments.org/iast/veda
+http://sanskritdocuments.org/tamil/veda
+http://sanskritdocuments.org/kannada/veda
+http://sanskritdocuments.org/telugu/veda
+http://sanskritdocuments.org/malayalam/veda
+http://sanskritdocuments.org/odia/veda

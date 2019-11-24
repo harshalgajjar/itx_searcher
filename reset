@@ -1,0 +1,9 @@
+rm ./queues/crawler_queue.txt ./queues/itx_queue.txt ./visited/crawler_visited.txt ./visited/itx_visited.txt ./data/itx_data.txt ./data/itx_words.txt
+echo "http://sanskritdocuments.org/veda" > ./queues/crawler_queue.txt
+> ./queues/itx_queue.txt
+> ./visited/crawler_visited.txt
+> ./visited/itx_visited.txt
+> ./data/itx_data.txt
+> ./data/itx_words.txt
+
+chmod 777 ./queues/crawler_queue.txt ./queues/itx_queue.txt ./visited/crawler_visited.txt ./visited/itx_visited.txt ./data/itx_data.txt ./data/itx_words.txt
